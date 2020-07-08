@@ -1,8 +1,8 @@
 
-
+phrase = "Windgardium Leviosa"
 def using_times
-	times do
-	  puts "Wingardium Leviosa"
+	7.times do
+	  puts phrase
 	end
 end
 
