@@ -1,8 +1,8 @@
 
 
-def using_times('Wingardium Leviosa')
+def using_times
 	7.times do
-	  puts using_times
+	  puts using_times("Wingardium Leviosa")
 	end
 end
 
